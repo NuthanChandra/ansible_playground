@@ -7,7 +7,7 @@ deployment:
     os: centos7
     version: null
     orchestrator: kubernetes
-    deployer: contrail_kolla_ansible_docker
+    deployer: contrail_command
 
 provider_config:
   bms:
